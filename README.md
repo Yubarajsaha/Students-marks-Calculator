@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Students-marks-Calculator
 A Java console application for calculating student performance metrics such as total marks, percentage, average score, and final grade.
 Great! Let’s focus on making your **README** professional and attractive for your **Students Marks Calculator** project.
@@ -28,11 +29,52 @@ The **Students Marks Calculator** is a simple Java application designed to help 
 
 * **Language:** Java
 * **IDE:** VS Code / Eclipse / IntelliJ IDEA
+=======
+# 🧮 Students' Marks Calculator
+
+## **🚀 Project Overview**
+
+The **Students Marks Calculator** is a Java-based console application that helps teachers and students **calculate marks efficiently**.
+It allows input of multiple subjects, calculates **total marks**, **percentage**, and automatically assigns **grades**.
+
+---
+
+## **✨ Features**
+
+* 📝 Input marks for multiple subjects.
+* 📊 Automatic calculation of **total marks** and **percentage**.
+* 🎓 Assigns **grades** based on percentage.
+* 💻 Simple and easy-to-use console interface.
+* 🔧 Easily extendable for **multiple students or GUI** in the future.
+
+---
+
+## **🛠 Technologies**
+
+* **Language:** Java ☕
+* **IDE:** VS Code 💻
+>>>>>>> 7a11cbc1a9ea1882d92427e714c2ff45c4857112
 * **Version Control:** Git & GitHub
 
 ---
 
+<<<<<<< HEAD
 ## **How to Use**
+=======
+## **📂 Project Structure**
+
+```
+Students-marks-Calculator/
+│
+├── StudentsMarks_Calculator.java  # Main program file
+├── README.md                      # Project documentation
+└── .gitignore                     # Git ignore file
+```
+
+---
+
+## **💡 How to Use**
+>>>>>>> 7a11cbc1a9ea1882d92427e714c2ff45c4857112
 
 1. Clone the repository:
 
@@ -40,6 +82,7 @@ The **Students Marks Calculator** is a simple Java application designed to help 
 git clone https://github.com/Yubarajsaha/Students-marks-Calculator.git
 ```
 
+<<<<<<< HEAD
 2. Open the project in your IDE.
 3. Run `StudentsMarks_Calculator.java`.
 4. Follow the prompts to input student name and marks.
@@ -48,6 +91,16 @@ git clone https://github.com/Yubarajsaha/Students-marks-Calculator.git
 ---
 
 ## **Sample Output**
+=======
+2. Open the project in your preferred IDE.
+3. Run `StudentsMarks_Calculator.java`.
+4. Enter the student's name and marks as prompted.
+5. View **total marks**, **percentage**, and **grade**.
+
+---
+
+## **📊 Sample Output**
+>>>>>>> 7a11cbc1a9ea1882d92427e714c2ff45c4857112
 
 ```
 Enter student name: Rahul
@@ -62,6 +115,7 @@ Grade: A
 
 ---
 
+<<<<<<< HEAD
 ## **Project Structure**
 
 ```
@@ -81,3 +135,21 @@ Students-marks-Calculator/
 * Generate **reports** for multiple students.
 
 ---
+=======
+## **🚀 Future Enhancements**
+
+* 🖥 Add **GUI** for better user experience.
+* 💾 Store student data in **files or a database**.
+* 📑 Generate **reports** for multiple students.
+
+---
+
+## **📄 License**
+
+This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
+
+
+
+
+
+>>>>>>> 7a11cbc1a9ea1882d92427e714c2ff45c4857112
