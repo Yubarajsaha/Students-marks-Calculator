@@ -1,17 +1,17 @@
-<<<<<<< HEAD
+
 # Students-marks-Calculator
-A Java console application for calculating student performance metrics such as total marks, percentage, average score, and final grade.
+A Java console application for calculating student performance metrics, including total marks, percentage, average score, and final grade.
 Great! Let’s focus on making your **README** professional and attractive for your **Students Marks Calculator** project.
 
 Here’s a polished version you can directly use in your `README.md`:
 
 ---
 
-# 📝 Students Marks Calculator
+# 📝 Students' Marks Calculator
 
 ## **Overview**
 
-The **Students Marks Calculator** is a simple Java application designed to help students and teachers calculate and manage marks efficiently. The program allows input of multiple subjects, calculates total marks, percentage, and assigns grades automatically.
+The **Students Marks Calculator** is a simple Java application designed to help students and teachers calculate and manage marks efficiently. The program allows input of multiple subjects, calculates total marks and percentage, and assigns grades automatically.
 
 ---
 
@@ -21,7 +21,7 @@ The **Students Marks Calculator** is a simple Java application designed to help 
 * Automatic calculation of **total marks** and **percentage**.
 * Assigns **grades** based on percentage.
 * Easy-to-use console interface.
-* Can be extended for multiple students or GUI in the future.
+* Can be extended for multiple students or a GUI in the future.
 
 ---
 
