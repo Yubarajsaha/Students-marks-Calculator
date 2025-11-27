@@ -4,7 +4,8 @@ public class StudentsMarks_Calculator {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        System.out.print("Enter name of the Student: ");
+        String Name=sc.nextLine();
         System.out.print("Enter number of subjects: ");
         int subjects = sc.nextInt();
 
@@ -26,6 +27,7 @@ public class StudentsMarks_Calculator {
         double percentage = (total / (subjects * 100.0)) * 100;
 
         System.out.println("\n----- Student Performance Summary -----");
+        System.out.println("Name Of Student    : " + Name);
         System.out.println("Total Marks     : " + total);
         System.out.println("Average Marks   : " + String.format("%.2f", average));
         System.out.println("Percentage      : " + String.format("%.2f", percentage) + "%");
